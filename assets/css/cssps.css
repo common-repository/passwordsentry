@@ -1,0 +1,17 @@
+blockquote {
+	width:			450px;
+	background-color:	#f9f9f9;
+	border:			1px solid #ccc;
+	border-radius:		6px;
+	box-shadow:		1px 1px 1px #ccc;
+	font-style:		italic;
+}
+blockquote cite:before {
+	content:		"\2014 \2009";
+}
+h2 {
+	color:			#c9302c;
+}
+h3 {
+	color:			#5cb85c;
+}
